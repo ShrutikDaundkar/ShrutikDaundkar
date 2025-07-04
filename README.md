@@ -11,7 +11,7 @@ I'm am second year computer engineering student passionate about full-stack deve
  
 ## 🛠️ Languages & Tools
  
-[Java,C,C++,JAVA ]
+[Java,C,C++,HTML, CSS]
  
 ## 👀 Most Used Languages
  
@@ -19,7 +19,7 @@ I'm am second year computer engineering student passionate about full-stack deve
  
 ## 📈 GitHub Stats
  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShruitkDaundkar&show_icons=true&hide_title=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrutikDaundkar&show_icons=true&hide_title=true)
  
 ## 📊 Github Streak Stats
  
