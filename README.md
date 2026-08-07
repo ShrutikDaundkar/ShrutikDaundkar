@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shrutik Daundkar
 
-🎓 Second-Year **Computer Engineering Student**  
+🎓 Third-Year **Information Technology Student**  
 💻 Aspiring **Full-Stack Developer** | Polyglot Programmer  
 🚀 Passionate about building scalable, real-world applications
 
